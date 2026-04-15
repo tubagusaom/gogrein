@@ -8,9 +8,9 @@
                     <div class="templatemo_subtitle">Green Education</div>
                 </div>
                 <div class="col-sm-6 templatemo_home">
-                    <div class="templatemo_headertitle">DUIS SED ODIO</div>
+                    <div class="templatemo_headertitle">LOREM IPSUMS</div>
                     <div class="clear"></div>
-                    <div class="templatemmo_subheader">AMET NIBH VUL UTATE DUIC URSUS VALUPATE URSUS ASIT</div>
+                    <div class="templatemmo_subheader">LOREM IPSUMS LOREM IPSUMS LOREM IPSUMS LOREM IPSUMS</div>
                     <div class="clear"></div>
                     <div class="templatemo_hometext">
                         <p>Robotic Template is free responsive layout from templatemo. Credits go to <a rel="nofollow" href="http://www.smashingmagazine.com/2012/11/20/art-professions-icons-png/">Art Professions</a> Icon and <a rel="nofollow" href="http://unsplash.com">Unsplash</a> for images used in this template.</p>
@@ -47,7 +47,7 @@
                 </div>
                 <div class="col-md-6 templatemo_service">
                     <div class="templatemo_service_title">EDUCATION</div>
-                    <div class="templatemo_service_subtitle">AMET NIBH VUL UTATE CURSUS DOLOR AMEIS</div>
+                    <div class="templatemo_service_subtitle">LOREM IPSUMS LOREM IPSUMS LOREM IPSUMS</div>
                     <div class="templatemo_service_text">
                         <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.                </p>
                         <div class="clear"></div>
@@ -58,7 +58,7 @@
             <div class="row templatemo_ordering">
                 <div class="col-md-6 templatemo_service one">
                     <div class="templatemo_service_title">CULTIVATION</div>
-                    <div class="templatemo_service_subtitle">AMET NIBH VUL UTATE CURSUS DOLOR AMEIS</div>
+                    <div class="templatemo_service_subtitle">LOREM IPSUMS LOREM IPSUMS LOREM IPSUMS</div>
                     <div class="templatemo_service_text">
                         <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.                </p>
                         <div class="clear"></div>
@@ -89,7 +89,7 @@
                 </div>
                 <div class="col-md-6 templatemo_service">
                     <div class="templatemo_service_title">TECHNOLOGY</div>
-                    <div class="templatemo_service_subtitle">AMET NIBH VUL UTATE CURSUS DOLOR AMEIS</div>
+                    <div class="templatemo_service_subtitle">LOREM IPSUMS LOREM IPSUMS LOREM IPSUMS</div>
                     <div class="templatemo_service_text">
                         <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.</p>
                         <div class="clear"></div>
@@ -196,7 +196,7 @@
                 <div class="col-md-4 templatemo_work"><img src="<?php echo base_url() ?>assets_gogrein/images/templatemo_workicon.png" alt="templatemo work"></div>
                 <div class="col-md-8">
                     <div class="templatemo_worktitle">ABOUT US</div>
-                    <div class="templatemo_sub_worktitle">SED NON MAURIS VITAE ERAT</div>
+                    <div class="templatemo_sub_worktitle">WE ARE</div>
                     <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate amet mauris. Morbi accumsan ipsum velit.</p>
                     <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo.</p>
                     <ul>
@@ -220,7 +220,7 @@
             <div id="templatemo_contact" class="row templatemo_contact">
                 <div class="col-md-12">
                     <div class="templatemo_contacttitle">CONTACT</div>
-                    <div class="templatemo_sub_contacttitle">CONSEQUAT AUCTOR DIEI SED ODIO</div>
+                    <div class="templatemo_sub_contacttitle">CONTACT US HERE</div>
                 </div>
                 <div class="col-md-4 templatemo_contactform">
                     <form action="#" method="post">
