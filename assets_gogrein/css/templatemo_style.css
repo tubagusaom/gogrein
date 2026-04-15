@@ -361,6 +361,12 @@ h1 {
     width: 100%;
 }
 
+#templattb_map {
+    float: left;
+    height: 400px;
+    width: 100%;
+}
+
 #templatemo_map {
     float: left;
     height: 400px;

@@ -234,8 +234,10 @@
                 </div>
                 <div class="col-md-8">
                     <div class="templatemo_contactmap">
-                        <div id="templatemo_map"></div>
-                        <div class="templatemo_mapcorner"><img src="<?php echo base_url() ?>assets_gogrein/images/templatemo_mapcorner.png" alt="Google Maps"></div>
+                        <div id="templattb_map">
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.2957381217543!2d106.82541119999999!3d-6.224682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f40807c4c18f%3A0x4c3bd83a57d2a33a!2sMandiri%20Inhealth%20Tower!5e0!3m2!1sen!2sid!4v1776225805773!5m2!1sen!2sid" width="600" height="365" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                        <!-- <div class="templatemo_mapcorner"><img src="<?php echo base_url() ?>assets_gogrein/images/templatemo_mapcorner.png" alt="Google Maps"></div> -->
                     </div>
                 </div>
             </div>
